@@ -1,0 +1,40 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    padding: 0;
+} 
+
+.ps1:first-line{
+    background-color: #C05746;
+}
+.ps2::after{
+    content: hola;
+    margin-right: 10px;
+    background-color: #B78F6F;
+}
+.caja3{
+    background-color: beige;
+}
+.caja4{
+    background-color: beige;
+}
+.caja5{
+    background-color: beige;
+}
+.caja6{
+    background-color: beige;
+}
+.caja7{
+    background-color: beige;
+}
+.caja8{
+    background-color: beige;
+}
+.caja9{
+    background-color: beige;
+}
+.caja10{
+    background-color: beige;
+}
